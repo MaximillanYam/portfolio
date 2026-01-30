@@ -1,3 +1,3 @@
 # portfolio
 
-This project utilizes the RIO library in python to create my portfolio webstite. I struggle to work with css ... Which is why I have put off front end development for a long time. I had learned about different libraries that could solve this and had narrowed down my choices to Reflex and Rio. I had discovered that Reflex still requires you to design your components using css-like structure, so I opted for Rio which is suppose to be more "pythonic".
+I had intended to create a personal portfolio using javascript, html, css but had quickly found that I struggled very hard to design anything properly using css. I was much more comfortable programming with python, later on I had learned of different libraries (Rio and Reflex) that promised a "python" only front-end development. I had quickly grown very interested and decided to learn Reflex to create my portfolio.
